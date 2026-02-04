@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+  letter-spacing: 0.5px;
+}
+
+section {
+  min-height: 60vh;
+}
+
+.btn-lg {
+  padding: 12px 28px;
+}
